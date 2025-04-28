@@ -18,7 +18,7 @@ const mywork_data = [
     w_no: 1,
     w_name: "Web design",
     w_img: TASK_1,
-    w_link: "https://movie-app-ashen-sigma.vercel.app/",
+    w_link: "https://cinepoliapp.vercel.app/",
   },
   {
     w_no: 2,
