@@ -55,7 +55,8 @@
 
 @media (max-width: 767px) {
   .navbar {
-    margin: 20px 40px;
+    /* margin: 20px 40px; */
+    margin: 20px 20px;
   }
   .nav-connect {
     display: none;
@@ -64,6 +65,7 @@
     display: block;
     position: fixed;
     right: 30px;
+    top: 45px;
     cursor: pointer;
   }
   .nav-mob-close {
